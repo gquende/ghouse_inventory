@@ -4,12 +4,12 @@ const mysql = require('mysql');
 const app = express();
 const port = process.env.PORT || 3000;
 
-// Configuração da conexão com o MySQL
+
 const db = mysql.createConnection({
-  host: 'mysql', // Nome do host do contêiner MySQL (usaremos isso no Docker)
+  host: 'mysql', 
   user: 'root',
-  password: 'password', // Altere para sua senha do MySQL
-  database: 'mydb', // Altere para o nome do banco de dados desejado
+  password: 'password', 
+  database: 'mydb', 
 });
 
 db.connect((err) => {
