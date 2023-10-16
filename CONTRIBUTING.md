@@ -1,10 +1,10 @@
 # House Inventory
 
 [![License](https://img.shields.io/github/license/dhi13man/nordigen_integration)](https://github.com/DevGrowth/house_inventory/blob/main/LICENSE)
-[![Contributors](https://img.shields.io/github/contributors-anon/dhi13man/nordigen_integration?style=flat)](https://github.com/DevGrowth/house_inventory/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/dhi13man/nordigen_integration?style=social)](https://github.com/DevGrowth/house_inventory/network/members)
-[![GitHub Repo stars](https://img.shields.io/github/stars/dhi13man/nordigen_integration?style=social)](https://github.com/DevGrowth/house_inventory)
-[![Last Commit](https://img.shields.io/github/last-commit/dhi13man/nordigen_integration)](https://github.com/DevGrowth/house_inventory/commits/main)
+[![Contributors](https://img.shields.io/github/contributors-anon/DevGrowth/house_inventory?style=flat)](https://github.com/DevGrowth/house_inventory/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/DevGrowth/house_inventory?style=social)](https://github.com/DevGrowth/house_inventory/network/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/DevGrowth/house_inventory?style=social)](https://github.com/DevGrowth/house_inventory)
+[![Last Commit](https://img.shields.io/github/last-commit/DevGrowth/house_inventory)](https://github.com/DevGrowth/house_inventory/commits/main)
 
 Thank you for investing your time in contributing to this project! Any contributions you make have a chance of reflecting in actual project, and brightens up our day. :)
 
